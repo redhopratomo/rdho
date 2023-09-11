@@ -1,4 +1,8 @@
 
+*{
+    background-color: #383535;
+    font-family: 'poppins', sans-serif;
+}
 header{
     width: 100%;
     height: 100vh;

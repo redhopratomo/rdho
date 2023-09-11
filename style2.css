@@ -1,5 +1,5 @@
-/* *{
-    padding: 0;
+ *{
+    padding: 50px;
     margin: 0;
     font-family: 'poppins';
 }
@@ -37,4 +37,4 @@
     right: 0;
     bottom: 0;
     z-index: -1;
-} */
+} 
